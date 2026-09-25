@@ -55,7 +55,7 @@
 
 ## 🔥 Projetos em Destaque
 
-- 🚀 Em breve: Projetos Full Stack completos
+- 🚀 Projetos Full Stack completos
 - 💡 Aplicações React + Node
 - 🛒 Sistemas Web modernos
 
